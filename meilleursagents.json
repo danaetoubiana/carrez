@@ -1,0 +1,12 @@
+{
+	"titre":"Meilleurs agents schema",
+	"type":"object",
+
+
+	"Ville": "string",
+  "Prix m2 moyen appartement":"integer",
+	"Loyer m2 moyen":"integer",
+	"Prix m2 moyen maison":"integer",
+
+
+}
