@@ -1,0 +1,25 @@
+{
+	"title": "Schema MeilleursAgents",
+	"type": "object",
+	"properties": {
+		"zip": "string",
+		"town": "string",
+		"surface": "string",
+		"appartement": {
+			"max": "string",
+			"min": "string",
+			"averrage": "string"
+		},
+		"house": {
+			"max": "string",
+			"min": "string",
+			"averrage": "string"
+		},
+		"rent": {
+			"max": "string",
+			"min": "string",
+			"averrage": "string"
+		},
+		"deal":"string"
+	}
+}
