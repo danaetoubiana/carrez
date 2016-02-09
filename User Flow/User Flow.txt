@@ -1,0 +1,22 @@
+User Flow : Compare it!
+
+Step 1
+The user looks for an apartment on "Le Bon Coin" website.
+
+Step 2
+When he find the one he would like to compare,
+he copy the URL from "Le Bon Coin" into the searchbar of "Compare it!"
+
+Step 3
+
+Then, the website compare the price between
+the "Le Bon Coin" and "Meilleurs agents" websites.
+
+Step 4
+
+If the price by m2 from "Le Bon Coin" website is lower than the one on "Meilleurs agents"
+website , then a little thumb up appears to significate this is a good deal.
+If the price is higher than the other this is a bad deal so a thumb dow appears.
+
+The price in "Le Bon Coin" website will be converted in m2 of course!
+We will also recover all the data from "Le Bon Coin" and add them in "Compare it!" website.
